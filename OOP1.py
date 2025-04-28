@@ -31,7 +31,7 @@ class ShoppingCart:
 
 
 def checkout(cart: ShoppingCart):
- cart.summary()
+ cart.summary()#
  print(f"Final amount: Ksh {cart.calculate_total():.2f}\n")
 
 #usage

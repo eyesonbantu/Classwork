@@ -11,7 +11,7 @@ class ShoppingCart:
 obj1: ShoppingCart = ShoppingCart()
 obj2: ShoppingCart = ShoppingCart()
 obj2.bool1 = False
-
+#
 
 obj1.add_item(20,1)
 obj2.add_item(20,1)
